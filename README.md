@@ -1,4 +1,6 @@
-# python-code-snippets
+# python-code-snippets (documentation link)
+# datetime
+https://docs.python.org/3/library/datetime.html
 # OS
 ```
 https://docs.python.org/release/3.7.3/library/os.html
