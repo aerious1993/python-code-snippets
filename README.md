@@ -1,4 +1,10 @@
 # python-code-snippets (documentation link)
+# try and except 
+https://docs.python.org/3/tutorial/errors.html
+
+# re (regular expression)
+https://docs.python.org/3/library/re.html
+
 # csv 
 https://docs.python.org/3/library/csv.html
 
