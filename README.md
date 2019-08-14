@@ -1,4 +1,9 @@
 # python-code-snippets
+# Input/Output , formating print
+```
+https://docs.python.org/3/tutorial/inputoutput.html
+```
+
 # sorted
 ```
 https://docs.python.org/3/howto/sorting.html
