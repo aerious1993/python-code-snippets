@@ -1,5 +1,11 @@
 # python-code-snippets
 
+# Comprehension
+```
+numbers = [1,2,3,4,5,6]
+my_list = [ n for n in numbers if n %2 == 0 ]
+```
+
 # lambda 
 
 **Description: lambda args : operation** \
