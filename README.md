@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# random (for sample data generation)
+https://docs.python.org/3/library/random.html
+
 # secret (for cryptography)
 https://docs.python.org/3/library/secrets.html
 
