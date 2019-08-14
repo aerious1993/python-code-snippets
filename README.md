@@ -27,3 +27,9 @@ list_b = [4, 5, 6]
   
 map(lambda x, y: x + y, list_a, list_b) # Output: [5, 7, 9]
 ```
+
+# Filter
+**Description: filter(function, iterable)**
+```
+Construct an iterator from those elements of iterable for which function returns true.
+```
