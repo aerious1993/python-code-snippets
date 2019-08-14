@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# csv 
+https://docs.python.org/3/library/csv.html
+
 # random (for sample data generation)
 https://docs.python.org/3/library/random.html
 
