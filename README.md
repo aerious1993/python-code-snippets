@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# secret (for cryptography)
+https://docs.python.org/3/library/secrets.html
+
 # datetime
 https://docs.python.org/3/library/datetime.html
 # OS
