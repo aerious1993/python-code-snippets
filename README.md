@@ -1,4 +1,11 @@
 # python-code-snippets (documentation link)
+# decorator example1
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Decorators/decorators.py
+
+# decorator example2
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Decorator-Arguments/decorator-start.py
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Decorator-Arguments/decorator-finish.py
+
 # generator
 ```
 def add(num):
