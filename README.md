@@ -1,8 +1,8 @@
 # python-code-snippets (documentation link)
-# decorator example1
+# decorator example1 without arguments
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Decorators/decorators.py
 
-# decorator example2
+# decorator example2 with arguments
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Decorator-Arguments/decorator-start.py
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Decorator-Arguments/decorator-finish.py
 
