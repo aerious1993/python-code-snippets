@@ -1,4 +1,10 @@
 # python-code-snippets (documentation link)
+# generator
+```
+def add(num):
+    yield (num+num)
+```
+
 # try and except 
 https://docs.python.org/3/tutorial/errors.html
 
