@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# class method
+https://docs.python.org/3/reference/datamodel.html#special-method-names
+
 # decorator example1 without arguments
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Decorators/decorators.py
 
