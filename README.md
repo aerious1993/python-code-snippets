@@ -7,6 +7,16 @@ https://docs.python.org/3/library/json.html
 
 # class method
 https://docs.python.org/3/reference/datamodel.html#special-method-names
+```
+@classmethod - class function return instances object which can access constructor
+@staticmethod - customize function
+@property - acts like a constructor but is not a constructor and set attribute (https://github.com/CoreyMSchafer/code_snippets/blob/master/Object-Oriented/6-property-decorator/oop.py)
+```
+
+# class inheritance
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Object-Oriented/4-Inheritance/oop-finish.py
+
+
 
 # decorator example1 without arguments
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Decorators/decorators.py
