@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# json
+https://docs.python.org/3/library/json.html
+
 # class method
 https://docs.python.org/3/reference/datamodel.html#special-method-names
 
