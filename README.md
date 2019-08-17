@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# loggin
+https://docs.python.org/3/howto/logging.html#advanced-logging-tutorial
+
 # json
 https://docs.python.org/3/library/json.html
 
