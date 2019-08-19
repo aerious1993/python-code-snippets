@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# break point (debugger)
+https://docs.python.org/3/library/pdb.html
+
 # loggin
 https://docs.python.org/3/howto/logging.html#advanced-logging-tutorial
 
