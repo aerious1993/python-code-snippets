@@ -1,4 +1,12 @@
 # python-code-snippets (documentation link)
+# dir(), type(), help(), __version__, __file__
+dir() => show method
+type() => type of data
+help() => description of method
+__version__ => version of library imported
+__file__ => directory of the library located
+
+
 # break point (debugger)
 https://docs.python.org/3/library/pdb.html
 
