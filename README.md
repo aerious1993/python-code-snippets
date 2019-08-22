@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# unittest
+https://docs.python.org/3/library/unittest.html
+
 # dir(), type(), help(), __version__, __file__
 dir() => show method
 type() => type of data
