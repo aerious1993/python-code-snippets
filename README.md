@@ -1,4 +1,7 @@
 # python-code-snippets (documentation link)
+# itertools
+https://docs.python.org/3/library/itertools.html
+
 # unittest
 https://docs.python.org/3/library/unittest.html
 
